@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ThreeActivities</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_uno">UnoActivity</string>
+    <string name="title_activity_dos">DosActivity</string>
+    <string name="title_activity_tres">TresActivity</string>
+</resources>
